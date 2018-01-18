@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "snowpersons.data.unityweb",
+"asmCodeUrl": "snowpersons.asm.code.unityweb",
+"asmMemoryUrl": "snowpersons.asm.memory.unityweb",
+"asmFrameworkUrl": "snowpersons.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
