@@ -6,8 +6,8 @@ This table will fill in from class to class with links to course materials:
 | :---------------------: | :------------ |
 | [1-1](./agenda/01-1.md) | Syllabus, Intro, Git/GitHub |
 | [1-2](./agenda/01-2.md) | GitHub + Unity, UI Basics, Primitives, 3D Space |
-<!--- | [2-1](./agenda/02-1.md) | 1/23 Terrain, Lights, Particles | --->
-<!--- | [2-2](./agenda/02-2.md) | 1/25 Scripting Intro | --->
+| [2-1](./agenda/02-1.md) | Terrain, Lights, Particles |
+| [2-2](./agenda/02-2.md) | Scripting Intro |
 <!--- | [3-1](./agenda/03-1.md) | 1/30 REMOTE : Random | --->
 <!--- | [3-2](./agenda/03-2.md) | 2/ 1 REMOTE : Perlin Terrain | --->
 <!--- | [4-1](./agenda/04-1.md) | 2/ 6 Trig Refresher | --->
