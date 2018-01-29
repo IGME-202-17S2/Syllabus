@@ -8,8 +8,8 @@ This table will fill in from class to class with links to course materials:
 | [1-2](./agenda/01-2.md) | GitHub + Unity, UI Basics, Primitives, 3D Space |
 | [2-1](./agenda/02-1.md) | Terrain, Lights, Particles |
 | [2-2](./agenda/02-2.md) | Scripting Intro |
-<!--- | [3-1](./agenda/03-1.md) | 1/30 REMOTE : Random | --->
-<!--- | [3-2](./agenda/03-2.md) | 2/ 1 REMOTE : Perlin Terrain | --->
+| [3-1](./agenda/03-1.md) | REMOTE : Random, Perlin |
+| [3-2](./agenda/03-2.md) | REMOTE : Perlin in Unity, Project 1 Assigned |
 <!--- | [4-1](./agenda/04-1.md) | 2/ 6 Trig Refresher | --->
 <!--- | [4-2](./agenda/04-2.md) | 2/ 8 Unity 2D | --->
 <!--- | [5-1](./agenda/05-1.md) | 2/13 Vectors | --->
