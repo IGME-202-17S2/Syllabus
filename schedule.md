@@ -14,8 +14,8 @@ This table will fill in from class to class with links to course materials:
 | [4-2](./agenda/04-2.md) | Unity 2D |
 | [5-1](./agenda/05-1.md) | Vectors |
 | [5-2](./agenda/05-2.md) | Vector Movement |
-<!--- | [6-1](./agenda/06-1.md) | 2/20 Intersection | --->
-<!--- | [6-2](./agenda/06-2.md) | 2/22 Class Structure | --->
+| [6-1](./agenda/06-1.md) | Intersection |
+| [6-2](./agenda/06-2.md) | Class Structure |
 <!--- | [7-1](./agenda/07-1.md) | 2/27 Creation / Destruction | --->
 <!--- | [7-2](./agenda/07-2.md) | 3/ 1 Unity Canvas | --->
 <!--- | [8-1](./agenda/08-1.md) | 3/ 6 REMOTE : Midterm Exam | --->
