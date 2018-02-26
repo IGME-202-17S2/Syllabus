@@ -16,8 +16,8 @@ This table will fill in from class to class with links to course materials:
 | [5-2](./agenda/05-2.md) | Vector Movement |
 | [6-1](./agenda/06-1.md) | Intersection |
 | [6-2](./agenda/06-2.md) | Class Structure |
-<!--- | [7-1](./agenda/07-1.md) | 2/27 Creation / Destruction | --->
-<!--- | [7-2](./agenda/07-2.md) | 3/ 1 Unity Canvas | --->
+| [7-1](./agenda/07-1.md) | Creation / Destruction |
+| [7-2](./agenda/07-2.md) | Unity Canvas |
 <!--- | [8-1](./agenda/08-1.md) | 3/ 6 REMOTE : Midterm Exam | --->
 <!--- | [8-2](./agenda/08-2.md) | 3/ 8 Project Working Day | --->
 <!--- SPRING BREAK SPRING BREAK | 3/13 NO CLASS | --->
