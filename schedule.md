@@ -18,21 +18,21 @@ This table will fill in from class to class with links to course materials:
 | [6-2](./agenda/06-2.md) | Class Structure |
 | [7-1](./agenda/07-1.md) | Creation / Destruction |
 | [7-2](./agenda/07-2.md) | Unity Canvas |
-<!--- | [8-1](./agenda/08-1.md) | 3/ 6 REMOTE : Midterm Exam | --->
-<!--- | [8-2](./agenda/08-2.md) | 3/ 8 Project Working Day | --->
-<!--- SPRING BREAK SPRING BREAK | 3/13 NO CLASS | --->
-<!--- SPRING BREAK SPRING BREAK | 3/15 NO CLASS | --->
-<!--- | [10-1](./agenda/10-1.md) | 3/20 Forces | --->
-<!--- | [10-2](./agenda/10-2.md) | 3/22 Forces 2 | --->
+| [8-1](./agenda/08-1.md) | REMOTE : Midterm Exam |
+| [8-2](./agenda/08-2.md) | Project Working Day |
+| SPRING BREAK SPRING BREAK | NO CLASS |
+| SPRING BREAK SPRING BREAK | NO CLASS |
+| [10-1](./agenda/10-1.md) | 3/20 Forces |
+| 10-2 | 3/22 Steering (soon) |
 <!--- | [11-1](./agenda/11-1.md) | 3/27 Dot Product | --->
-<!--- | [11-2](./agenda/11-2.md) | 3/29 Steering | --->
-<!--- | [12-1](./agenda/12-1.md) | 4/3 Debug Lines | --->
-<!--- | [12-2](./agenda/12-2.md) | 4/5 Character Controller + Wall Avoidance | --->
-<!--- | [13-1](./agenda/13-1.md) | 4/10 Wandering | --->
-<!--- | [13-2](./agenda/13-2.md) | 4/12 Flocking | --->
+<!--- | [11-2](./agenda/11-2.md) | 3/29 Debug Lines | --->
+<!--- | [12-1](./agenda/12-1.md) | 4/3 Character Controller + Wall Avoidance | --->
+<!--- | [12-2](./agenda/12-2.md) | 4/5 Wandering | --->
+<!--- | [13-1](./agenda/13-1.md) | 4/10 Flocking | --->
+<!--- | [13-2](./agenda/13-2.md) | 4/12 REMOTE : Working Period | --->
 <!--- | [14-1](./agenda/14-1.md) | 4/17 Dot Product | --->
 <!--- | [14-2](./agenda/14-2.md) | 4/19 Path Following | --->
 <!--- | [15-1](./agenda/15-1.md) | 4/24 Flow Fields | --->
 <!--- | [15-2](./agenda/15-2.md) | 4/26 Leader Following | --->
 
-<!--- | [15-2](./agenda/15-2.md) | 5/?? Final Exam | --->
+<!--- | [Final](./agenda/final.md) | 5/3 Final Exam | --->
