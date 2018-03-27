@@ -22,15 +22,15 @@ This table will fill in from class to class with links to course materials:
 | [8-2](./agenda/08-2.md) | Project Working Day |
 | [9-1](./agenda/09-1.md) | Forces |
 | [9-2](./agenda/09-2.md) | Attraction |
-<!--- | [11-1](./agenda/10-1.md) | 3/27 Arrival | --->
-<!--- | [11-2](./agenda/10-2.md) | 3/29 Steering (Seek, Flee) | --->
-<!--- | [12-1](./agenda/11-1.md) | 4/3 Dot Product + Obstacle Avoidance | --->
-<!--- | [12-2](./agenda/11-2.md) | 4/5 Wandering, Character Controller + Wall Avoidance | --->
-<!--- | [13-1](./agenda/12-1.md) | 4/10 Flocking | --->
-<!--- | [13-2](./agenda/12-2.md) | 4/12 REMOTE : Working Period | --->
-<!--- | [14-1](./agenda/13-1.md) | 4/17 Dot Product | --->
-<!--- | [14-2](./agenda/13-2.md) | 4/19 Path Following | --->
-<!--- | [15-1](./agenda/14-1.md) | 4/24 Flow Fields | --->
-<!--- | [15-2](./agenda/15-2.md) | 4/26 Leader Following | --->
+| [10-1](./agenda/10-1.md) | Vector Steering |
+| [10-2](./agenda/10-2.md) | Dot Product + Obstacle Avoidance (soon) |
+<!--- | [11-1](./agenda/11-1.md) | 4/3 World Setup | --->
+<!--- | [11-2](./agenda/11-2.md) | 4/5 Wandering, Character Controller + Wall Avoidance | --->
+<!--- | [12-1](./agenda/12-1.md) | 4/10 Flocking | --->
+<!--- | [12-2](./agenda/12-2.md) | 4/12 REMOTE : Working Period | --->
+<!--- | [13-1](./agenda/13-1.md) | 4/17 Dot Product | --->
+<!--- | [13-2](./agenda/13-2.md) | 4/19 Path Following | --->
+<!--- | [14-1](./agenda/14-1.md) | 4/24 Flow Fields | --->
+<!--- | [14-2](./agenda/15-2.md) | 4/26 Leader Following | --->
 
 <!--- | [Final](./agenda/final.md) | 5/3 Final Exam | --->
