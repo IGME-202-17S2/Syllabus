@@ -24,8 +24,8 @@ This table will fill in from class to class with links to course materials:
 | [9-2](./agenda/09-2.md) | Attraction |
 | [10-1](./agenda/10-1.md) | Vector Steering |
 | [10-2](./agenda/10-2.md) | Dot Product, Obstacle Avoidance, Debug Lines |
-<!--- | [11-1](./agenda/11-1.md) | 4/3 World Setup | --->
-<!--- | [11-2](./agenda/11-2.md) | 4/5 Wandering, Character Controller + Wall Avoidance | --->
+| [11-1](./agenda/11-1.md) | Wandering, Character Controller, Wall Avoidance |
+| [11-2](./agenda/11-2.md) | P3 : Working Period |
 <!--- | [12-1](./agenda/12-1.md) | 4/10 Flocking | --->
 <!--- | [12-2](./agenda/12-2.md) | 4/12 REMOTE : Working Period | --->
 <!--- | [13-1](./agenda/13-1.md) | 4/17 Dot Product | --->
