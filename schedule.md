@@ -28,8 +28,8 @@ This table will fill in from class to class with links to course materials:
 | [11-2](./agenda/11-2.md) | P3 : Working Period |
 | [12-1](./agenda/12-1.md) | Flocking |
 | [12-2](./agenda/12-2.md) | NO CLASS (Joe away on business.) |
-<!--- | [13-1](./agenda/13-1.md) | 4/17 Path Following | --->
-<!--- | [13-2](./agenda/13-2.md) | 4/19 Flow Fields | --->
+| [13-1](./agenda/13-1.md) | Path Following, Project 4 |
+| [13-2](./agenda/13-2.md) | Flow Fields |
 <!--- | [14-1](./agenda/14-1.md) | 4/24 Leader Following | --->
 <!--- | [14-2](./agenda/15-2.md) | 4/26 P4 Work Period | --->
 
