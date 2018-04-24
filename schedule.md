@@ -30,7 +30,6 @@ This table will fill in from class to class with links to course materials:
 | [12-2](./agenda/12-2.md) | NO CLASS (Joe away on business.) |
 | [13-1](./agenda/13-1.md) | Path Following, Project 4 |
 | [13-2](./agenda/13-2.md) | Flow Fields |
-<!--- | [14-1](./agenda/14-1.md) | 4/24 Leader Following | --->
-<!--- | [14-2](./agenda/15-2.md) | 4/26 P4 Work Period | --->
-
-<!--- | [Final](./agenda/final.md) | 5/3 Final Exam | --->
+| [14-1](./agenda/14-1.md) | Queueing, Leader Following |
+| [14-2](./agenda/14-2.md) | P4 Work Period |
+| Final | 5/3 : 5pm - Final Exam |
